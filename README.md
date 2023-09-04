@@ -1,4 +1,5 @@
-# acharyasneh007@gmail.com
+# acharyasneh.com
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b801f9e0-e1e8-44d8-9854-33e841413d07/deploy-status)](https://app.netlify.com/sites/snehacharya/deploys)
 
 This is one of two repositories created for my portfolio website <a href="https://acharyasneh.com/"><samp>acharyasneh.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/sneh-ach/innerWebsite"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:acharyasneh007@gmail.com">acharyasneh007@gmail.com</a>
 <br>
